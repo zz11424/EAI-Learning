@@ -22,6 +22,7 @@
 journal/    现场实录，按月份归档
 notes/      六条知识线：遥操作 / 机械结构 / 安全机制 / 数据管线 / 末端工具 / Agent 使用
 glossary.md 术语表，每条带"现场出处"
+assets/     示意图（推门工具）
 interview/  面试话术与防坑
 reading/    书单，只列能读完的
 ```
@@ -31,6 +32,7 @@ reading/    书单，只列能读完的
 - [journal/2026-11-19.md](journal/2026-11-19.md)：换电抖动、指示灯、视角切换、推门工具
 - [notes/05-推门工具设计.md](notes/05-推门工具设计.md)：需求→三要素→五种结构→开源模型改造→验证
 - [notes/06-Agent与大模型使用.md](notes/06-Agent与大模型使用.md)：Agent 是什么、Claude 强在哪、五个用法和三条红线
+- [assets/推门工具-夹持式.png](assets/推门工具-夹持式.png)：方柄 + 铰接推板示意图
 
 ## 学习地图
 
